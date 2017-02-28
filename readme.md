@@ -99,5 +99,4 @@ Por fim, por que não criar uma composição de função:
     let findString = stringMatch >> getResult
 
 Finalmente, posso fazer executar meu programa:
-
     "0101abc111" |> findString
